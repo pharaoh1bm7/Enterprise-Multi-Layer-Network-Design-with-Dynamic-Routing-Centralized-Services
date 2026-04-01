@@ -87,7 +87,7 @@ The goal of this project is to simulate a real-world enterprise environment with
 
 ## 👨‍💻 Author
 
-**Bilal Eladwy (Pharaoh BM7)**  
+**Belal Eladawy (Pharaoh BM7)**  
 Network Engineer  
 
 ---
